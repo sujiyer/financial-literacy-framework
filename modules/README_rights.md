@@ -280,4 +280,4 @@ For adoption guidance and how to use this framework in your institution, see the
 
 ---
 
-*Part of the [Financial Literacy Framework](../../README.md) | github.com/sujiayer*
+*Part of the [Financial Literacy Framework](../../README.md) | github.com/sujiyer*
